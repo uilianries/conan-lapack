@@ -15,7 +15,7 @@ from conans.errors import ConanInvalidConfiguration
 
 class LapackConan(ConanFile):
     name = "lapack"
-    version = "3.7.1"
+    version = "3.8.0"
     license = "BSD 3-Clause"
     homepage = "https://github.com/Reference-LAPACK/lapack"
     description = """LAPACK is a library of Fortran subroutines for solving the most commonly
